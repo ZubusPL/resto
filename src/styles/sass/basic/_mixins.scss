@@ -1,0 +1,16 @@
+@mixin transition($ms) {
+	-webkit-transition: $ms;
+	transition: $ms;
+}
+
+@mixin rotate($deg) {
+	transform: rotate($deg);
+}
+
+@mixin rotateWithTranslate($deg, $x, $y) {
+	transform: translate($x, $y) rotate($deg);
+}
+
+@mixin translate($x, $y) {
+	transform: translate($x, $y);
+}

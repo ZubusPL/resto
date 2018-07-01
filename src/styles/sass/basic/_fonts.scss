@@ -1,0 +1,41 @@
+/*
+ *	Aleo font family
+ */
+
+@font-face {
+    font-family: 'Aleo';
+    src: url('../../fonts/aleo/aleo-regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+    font-family: 'Aleo';
+    src: url('../../fonts/aleo/aleo-italic.ttf') format('truetype');
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+    font-family: 'Aleo';
+    src: url('../../fonts/aleo/aleo-light.ttf') format('truetype');
+	font-weight: 200;
+	font-style: normal;
+}
+
+@font-face {
+    font-family: 'Aleo';
+    src: url('../../fonts/aleo/aleo-bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+/*
+ *	WC Mano Negra Bta font family
+ */
+ @font-face {
+     font-family: 'WCManoNegraBta';
+     src: url('../../fonts/aleo/wcmanonegrabta.ttf') format('truetype');
+ 	font-weight: normal;
+ 	font-style: normal;
+ }
